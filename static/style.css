@@ -50,14 +50,14 @@ header.sticky{
     position: relative;
     width: 30px;
     height: 30px;
-    background: url(close.png);
+    background: url(images/close.png);
     background-size: 30px;
     background-repeat: no-repeat;
     background-position: center;
     cursor: pointer;
 }
 .menuToggle.active{
-    background: url(cross.png);
+    background: url(imagges/cross.png);
     background-size: 15px;
     background-repeat: no-repeat;
     background-position: center;
