@@ -57,7 +57,7 @@ header.sticky{
     cursor: pointer;
 }
 .menuToggle.active{
-    background: url(imagges/cross.png);
+    background: url(images/cross.png);
     background-size: 15px;
     background-repeat: no-repeat;
     background-position: center;
