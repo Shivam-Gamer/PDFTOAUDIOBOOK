@@ -30,7 +30,7 @@ header{
     transition: .5s;
 }
 header.sticky{
-    padding: 10px 100px;
+    padding: 8px 80px;
 }
 .logos img{
   height: 40px;
